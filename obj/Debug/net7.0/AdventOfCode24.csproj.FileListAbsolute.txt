@@ -1,0 +1,14 @@
+C:\Users\annie\source\repos\AdventOfCode24\bin\Debug\net7.0\AdventOfCode24.exe
+C:\Users\annie\source\repos\AdventOfCode24\bin\Debug\net7.0\AdventOfCode24.deps.json
+C:\Users\annie\source\repos\AdventOfCode24\bin\Debug\net7.0\AdventOfCode24.runtimeconfig.json
+C:\Users\annie\source\repos\AdventOfCode24\bin\Debug\net7.0\AdventOfCode24.dll
+C:\Users\annie\source\repos\AdventOfCode24\bin\Debug\net7.0\AdventOfCode24.pdb
+C:\Users\annie\source\repos\AdventOfCode24\obj\Debug\net7.0\AdventOfCode24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annie\source\repos\AdventOfCode24\obj\Debug\net7.0\AdventOfCode24.AssemblyInfoInputs.cache
+C:\Users\annie\source\repos\AdventOfCode24\obj\Debug\net7.0\AdventOfCode24.AssemblyInfo.cs
+C:\Users\annie\source\repos\AdventOfCode24\obj\Debug\net7.0\AdventOfCode24.csproj.CoreCompileInputs.cache
+C:\Users\annie\source\repos\AdventOfCode24\obj\Debug\net7.0\AdventOfCode24.dll
+C:\Users\annie\source\repos\AdventOfCode24\obj\Debug\net7.0\refint\AdventOfCode24.dll
+C:\Users\annie\source\repos\AdventOfCode24\obj\Debug\net7.0\AdventOfCode24.pdb
+C:\Users\annie\source\repos\AdventOfCode24\obj\Debug\net7.0\AdventOfCode24.genruntimeconfig.cache
+C:\Users\annie\source\repos\AdventOfCode24\obj\Debug\net7.0\ref\AdventOfCode24.dll
